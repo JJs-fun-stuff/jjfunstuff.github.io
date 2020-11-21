@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/jjfunstuff.github.io/static/css/main.a21c9732.chunk.css",
+    "main.js": "/jjfunstuff.github.io/static/js/main.f0dddbea.chunk.js",
+    "main.js.map": "/jjfunstuff.github.io/static/js/main.f0dddbea.chunk.js.map",
+    "runtime-main.js": "/jjfunstuff.github.io/static/js/runtime-main.73fe56a3.js",
+    "runtime-main.js.map": "/jjfunstuff.github.io/static/js/runtime-main.73fe56a3.js.map",
+    "static/css/2.ea9b1cc9.chunk.css": "/jjfunstuff.github.io/static/css/2.ea9b1cc9.chunk.css",
+    "static/js/2.de105725.chunk.js": "/jjfunstuff.github.io/static/js/2.de105725.chunk.js",
+    "static/js/2.de105725.chunk.js.map": "/jjfunstuff.github.io/static/js/2.de105725.chunk.js.map",
+    "static/js/3.385374a1.chunk.js": "/jjfunstuff.github.io/static/js/3.385374a1.chunk.js",
+    "static/js/3.385374a1.chunk.js.map": "/jjfunstuff.github.io/static/js/3.385374a1.chunk.js.map",
+    "index.html": "/jjfunstuff.github.io/index.html",
+    "static/css/2.ea9b1cc9.chunk.css.map": "/jjfunstuff.github.io/static/css/2.ea9b1cc9.chunk.css.map",
+    "static/css/main.a21c9732.chunk.css.map": "/jjfunstuff.github.io/static/css/main.a21c9732.chunk.css.map",
+    "static/js/2.de105725.chunk.js.LICENSE.txt": "/jjfunstuff.github.io/static/js/2.de105725.chunk.js.LICENSE.txt",
+    "static/media/navigation.6b09ead7.svg": "/jjfunstuff.github.io/static/media/navigation.6b09ead7.svg",
+    "static/media/search.28b0ad10.svg": "/jjfunstuff.github.io/static/media/search.28b0ad10.svg",
+    "static/media/websiteLogo.30e68845.png": "/jjfunstuff.github.io/static/media/websiteLogo.30e68845.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73fe56a3.js",
+    "static/css/2.ea9b1cc9.chunk.css",
+    "static/js/2.de105725.chunk.js",
+    "static/css/main.a21c9732.chunk.css",
+    "static/js/main.f0dddbea.chunk.js"
+  ]
+}
